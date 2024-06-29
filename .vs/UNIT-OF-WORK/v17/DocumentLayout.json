@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|c:\\users\\izuchukwu.okorie\\desktop\\unit-of-work\\unit-of-work\\repositories\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|solutionrelative:repositories\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|c:\\users\\izuchukwu.okorie\\desktop\\unit-of-work\\unit-of-work\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|solutionrelative:controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|c:\\users\\izuchukwu.okorie\\desktop\\unit-of-work\\unit-of-work\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|solutionrelative:data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|c:\\users\\izuchukwu.okorie\\desktop\\unit-of-work\\unit-of-work\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|solutionrelative:repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|c:\\users\\izuchukwu.okorie\\desktop\\unit-of-work\\unit-of-work\\contract\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|solutionrelative:contract\\idriverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|c:\\users\\izuchukwu.okorie\\desktop\\unit-of-work\\unit-of-work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|c:\\users\\izuchukwu.okorie\\desktop\\unit-of-work\\unit-of-work\\contract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|solutionrelative:contract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|c:\\users\\izuchukwu.okorie\\desktop\\unit-of-work\\unit-of-work\\contract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|solutionrelative:contract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|c:\\users\\izuchukwu.okorie\\desktop\\unit-of-work\\unit-of-work\\dto\\driverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|solutionrelative:dto\\driverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|c:\\users\\izuchukwu.okorie\\desktop\\unit-of-work\\unit-of-work\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|solutionrelative:models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|c:\\users\\izuchukwu.okorie\\desktop\\unit-of-work\\unit-of-work\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|c:\\users\\izuchukwu.okorie\\desktop\\unit-of-work\\unit-of-work\\migrations\\20240618085336_initialmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|solutionrelative:migrations\\20240618085336_initialmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|c:\\users\\izuchukwu.okorie\\desktop\\unit-of-work\\unit-of-work\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73F2720-6834-411F-982A-EF02A97F330C}|UNIT-OF-WORK.csproj|solutionrelative:data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:53:37.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "Data\\UnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:22:54.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:52:14.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDriverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Contract\\IDriverRepository.cs",
+              "RelativeDocumentMoniker": "Contract\\IDriverRepository.cs",
+              "ToolTip": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Contract\\IDriverRepository.cs",
+              "RelativeToolTip": "Contract\\IDriverRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:33:31.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DriverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Repositories\\DriverRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DriverRepository.cs",
+              "ToolTip": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Repositories\\DriverRepository.cs",
+              "RelativeToolTip": "Repositories\\DriverRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:56:08.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriversController.cs",
+              "DocumentMoniker": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Controllers\\DriversController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DriversController.cs",
+              "ToolTip": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Controllers\\DriversController.cs",
+              "RelativeToolTip": "Controllers\\DriversController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:10:32.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Contract\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Contract\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Contract\\IUnitOfWork.cs",
+              "RelativeToolTip": "Contract\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:40:13.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Contract\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Contract\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Contract\\IGenericRepository.cs",
+              "RelativeToolTip": "Contract\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:11:05.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DriverDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\DTO\\DriverDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DriverDTO.cs",
+              "ToolTip": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\DTO\\DriverDTO.cs",
+              "RelativeToolTip": "DTO\\DriverDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:18:15.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T07:40:52.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "Models\\Driver.cs",
+              "ToolTip": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Models\\Driver.cs",
+              "RelativeToolTip": "Models\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:57:01.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240618085336_InitialMigrations.cs",
+              "DocumentMoniker": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Migrations\\20240618085336_InitialMigrations.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240618085336_InitialMigrations.cs",
+              "ToolTip": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Migrations\\20240618085336_InitialMigrations.cs",
+              "RelativeToolTip": "Migrations\\20240618085336_InitialMigrations.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:56:45.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Data\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\Izuchukwu.Okorie\\Desktop\\UNIT-OF-WORK\\UNIT-OF-WORK\\Data\\ApiDbContext.cs",
+              "RelativeToolTip": "Data\\ApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:23:02.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

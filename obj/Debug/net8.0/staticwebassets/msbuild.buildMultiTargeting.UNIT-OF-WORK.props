@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UNIT-OF-WORK.props" />
+</Project>
